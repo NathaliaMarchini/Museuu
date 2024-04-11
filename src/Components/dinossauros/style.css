@@ -1,0 +1,213 @@
+.centroo {
+    position: relative;
+    width: 90vw;
+    height: cover;
+    border: solid 2px #BF9B6F;
+    display: flex;
+    /* Add this to make child elements flex items */
+    flex-direction: column;
+    /* To stack children vertically */
+ 
+}
+
+.homee{
+    width: 100%;
+    height: 6vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.frasee, .frase{
+    margin-top: -1.5vw;
+} 
+
+.frasee {
+    display: flex;
+
+}
+
+.linkUm{
+    margin-left: 76%;
+    padding: 2vw;
+}
+
+.frase{
+    display: flex;
+
+}
+
+.frasee h1, .frase h1 {
+    color: white;
+    font-size: 1.6vw;
+    font-weight: 400;
+    font-style: normal;
+    font-family: "Cinzel", serif;
+    
+}
+
+
+.legendaa{
+    width: 100%;
+    height: 10vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.legendaa h1{
+    font-family: "Cinzel Decorative", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 3vw;
+}
+
+.ovos{
+    width: 100%;
+    height: 40vw;
+    display: flex;
+}
+
+.ovo, .explic, .ovo2, .explic2{
+    flex: 1;
+}
+
+.ovo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.ovo2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+
+.casca{
+    width: 80%;
+    height: 20%;
+    position: relative;
+}
+
+.dentro{
+    width: 70%;
+    height: 50%;
+    background-color: rgba(54, 49, 42, 0.50);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imgDentro{
+    width: 70%;
+    height: 70%;
+    margin-top: 3vw;
+}
+
+.imgDentro img{
+    width: 100%;
+}
+
+.casca img{
+    width: 100%;
+}
+
+
+.casca2{
+    width: 80%;
+    height: 20%;
+    position: relative;
+}
+
+.casca2 img{
+    margin-top: -5vw;
+    width: 100%;
+}
+
+.explic{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.explic2{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.retang{
+    width: 80%;
+    height: 85%;
+    background-color: #593B17;
+    border: 0.3vw solid #BF9B6F;
+    border-radius: 6vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rexTexto{
+    width: 95%;
+    height: 95%;
+}
+.rexTexto2{
+    width: 95%;
+    height: 95%;
+}
+
+.rexTexto h1{
+    font-size: 1.5vw;
+    margin-top: 5vw;
+    margin-bottom: 3vw;
+    font-weight: 400;
+    font-style: normal;
+    font-family: "Cinzel", serif;
+}
+
+.rexTexto2 h1{
+    font-size: 1.5vw;
+    margin-top: 5vw;
+    margin-bottom: 3vw;
+    font-weight: 400;
+    font-style: normal;
+    font-family: "Cinzel", serif;
+}
+
+.rexTexto p{
+    font-size: 0.7vw;
+}
+.rexTexto2 p{
+    font-size: 0.7vw;
+}
+
+.fimm{
+    width: 100%;
+    height: 8vw;
+    display: flex;
+    justify-content: center;
+}
+
+.botaoo{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.photoo{
+    width: 25%;
+    height: 75%;
+}
+
+.photoo img{
+    height: 100%;
+}

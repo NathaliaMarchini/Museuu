@@ -1,0 +1,77 @@
+.centroAgain {
+    position: relative;
+    width: 90vw;
+    height: cover;
+    border: solid 2px #BF9B6F;
+    display: flex;
+    /* Add this to make child elements flex items */
+    flex-direction: column;
+    /* To stack children vertically */
+    
+}
+
+.quadrado{
+    width: 90vw;
+    height: 50vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.quadradoC{
+    width: 70%;
+    height: 80%;
+    border: solid 2px #BF9B6F;
+    border-top-right-radius: 12vw;
+    border-bottom-left-radius: 12vw;
+    border-bottom-right-radius: 12vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.titulooo{
+    width: 90%;
+    height: 20%;
+    margin-top: 2vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.titulooo h1{
+    font-size: 4vw;
+    font-family: "Cinzel", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+.textoSobre{
+    width: 90%;
+    height: 60%;
+}
+
+.textoSobre p{
+    font-size: 0.9vw;
+}
+
+.back{
+    width: 90%;
+    height: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.back h1{
+    font-size: 1.8vw;
+    font-family: "Cinzel", serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: #BF9B6F;
+}

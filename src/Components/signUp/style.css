@@ -1,0 +1,154 @@
+body {
+    overflow-x: hidden;
+}
+
+.signup-body {
+    overflow-x: hidden;
+    background: linear-gradient(to bottom, black, #291C11, #755234);
+}
+
+
+.centro {
+    position: relative;
+    width: 90vw;
+    height: cover;
+    border: solid 2px #BF9B6F;
+    display: flex;
+    /* Add this to make child elements flex items */
+    flex-direction: column;
+    /* To stack children vertically */
+ 
+}
+
+.espaco{
+    width: 100%;
+    height: 10vw;
+}
+
+.volta{
+    width: 10%;
+    height: 30%;
+    margin-left: 89%;
+}
+
+.volta h1{
+    color: white;
+    font-size: 1.6vw;
+    font-weight: 500;
+    font-style: normal;
+    font-family: "Cinzel", serif;
+}
+
+
+.conteudoT{
+    width: 100%;
+    height: 30vw;
+    display: flex;
+}
+
+.textinho, .conteuform{
+    flex: 1;
+}
+
+.textinho{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.arr{
+    font-size: 0.7vw;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    width: 83%;
+    height: 60%;
+    margin-top: 5vw;
+}
+
+.arr h1{
+    font-family: "Cinzel Decorative", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+
+.arr2{
+    width: 100%;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+}
+
+.input1, .input2{
+    flex: 1;
+}
+.input1{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.inputEmail{
+    width: 50%;
+    height: 20%;
+    border: 0.2vw solid #BF9B6F;
+    background-color: black;
+    border-radius: 0.5vw;
+    display: flex;
+}
+
+.inputSenha{
+    width: 50%;
+    height: 20%;
+    border: 0.2vw solid #BF9B6F;
+    background-color: black;
+    border-radius: 0.5vw;
+   margin-bottom: 1vw;
+}
+
+.input2{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+.botaozinho button{
+    background-color: #BF9B6F;
+    color: black;
+}
+
+
+.labelE{
+    margin-top: 3vw;
+    font-size: 1.5vw;
+    margin-right: 28%;
+    margin-bottom: 1vw;
+}
+
+.labelS{
+    font-size: 1.5vw;
+    margin-right: 27%;
+    margin-bottom: 1vw;
+}
+
+.terra{
+    width: 100%;
+    height: 24vw;
+}
+
+.terraimg{
+    width: 100%;
+    height: 100%;
+}
+
+.terraimg img{
+    width: 90vw;
+    height: 25vw;
+}

@@ -1,0 +1,93 @@
+{
+  "fossilRex": [
+    {
+      "id": "1",
+      "nome": "fóssil de um rex",
+      "url": "./src/img/rex.png"
+    }
+  ],
+  "conteudinho": [
+    {
+      "id": "1",
+      "text": "WELCOME!",
+      "text2": "Bem-vindo ao Museu de Paleontologia: Descubra as Maravilhas Antigas da Terra.\nExplore nosso museu virtual e descubra uma grande variedade de criaturas e maravilhas antigas.\nDe feras colossais a pequenos fósseis, cada exposição oferece um vislumbre do passado distante do nosso planeta.\nJunte-se a nós numa viagem através de épocas geológicas, testemunhando as maravilhas da evolução e as tragédias da extinção.\nMergulhe em mares antigos e explore paisagens esquecidas que moldaram o nosso mundo.",
+      "text3": "Come on!"
+    }
+  ],
+  "botaoF": [
+    {
+      "id": "1",
+      "url": "./src/img/paw.png"
+    }
+  ],
+  "cadastroText": [
+    {
+      "id": "1",
+      "text": "Cadastre-se para receber novidades e fazer parte dessa familia Pré-histórica!",
+      "url": "./src/img/terra&fosseis.png"
+    }
+  ],
+  "ovinhos": [
+    {
+      "url": "./src/img/cascaa.png",
+      "id": "c272"
+    }
+  ],
+  "casquinha": [
+    {
+      "url": "./src/img/cascaBaixo.png",
+      "id": "935d"
+    }
+  ],
+  "extincaoElements": [
+    {
+      "url": "./src/img/meteoro2 1.png",
+      "text": "Há cerca de 65 milhões de anos, o mundo assistiu a um espetáculo catastrófico que marcaria a história da vida na Terra para sempre: a extinção dos dinossauros. Este evento colossal, envolto em mistério e especulação, deixou um legado de perguntas intrigantes para os cientistas desvendarem. Durante o período Cretáceo, os dinossauros dominavam os ecossistemas terrestres, exibindo uma diversidade impressionante em formas e tamanhos. No entanto, o destino desses colossos pré-históricos mudou abruptamente. A teoria mais aceita sugere que um asteroide de proporções gigantescas colidiu com a Terra, criando uma onda de destruição em escala global. O impacto desencadeou uma série de eventos catastróficos: incêndios florestais, tsunamis avassaladores e uma nuvem de poeira que obscureceu o sol por meses, mergulhando o planeta em um inverno nuclear. As plantas murcharam, os ecossistemas entraram em colapso e os dinossauros, assim como muitas outras formas de vida, enfrentaram um destino sombrio. Apesar da extinção em massa, alguns organismos conseguiram sobreviver e evoluir em meio ao caos. Mamíferos pequenos, pássaros primitivos e répteis sobreviveram à extinção, dando origem a uma nova era de dominância biológica. A extinção dos dinossauros é um lembrete impressionante da fragilidade da vida e da influência catastrófica que eventos cósmicos podem exercer sobre nosso planeta. Enquanto contemplamos o passado distante, essa história nos convida a refletir sobre nosso papel na preservação do delicado equilíbrio da vida na Terra.",
+      "id": "c624"
+    }
+  ],
+  "mouth": [
+    {
+      "url": "./src/img/dinoMouth.png",
+      "id": "a542"
+    }
+  ],
+  "creatures": [
+    {
+      "url": "./src/img/tRexRex.png",
+      "text": "Tyrannosaurus rex",
+      "text2": "O tiranossauro rex, também conhecido como T. rex, foi uma das criaturas mais temíveis a vagar pela Terra durante o período Cretáceo, cerca de 68 a 66 milhões de anos atrás. Este imenso dinossauro carnívoro é amplamente reconhecido por sua grande cabeça, mandíbulas poderosas e braços relativamente curtos em comparação com o tamanho de seu corpo. Com suas pernas fortes e cauda robusta, o T. rex era um predador formidável, capaz de caçar e subjugar outras criaturas, incluindo os herbívoros mais resistentes da época. Sua presença dominante no ecossistema pré-histórico o tornou uma figura icônica na história da paleontologia e continua a fascinar e intrigar as mentes curiosas de todas as idades.",
+      "url2": "./src/img/triceraptor.png",
+      "text3": "Triceratops",
+      "text4": "O triceratops foi um dinossauro herbívoro do final do período Cretáceo, conhecido por sua aparência distintiva e imponente. Seu nome significa 'rosto com três chifres', referindo-se aos três grandes chifres que se projetavam do crânio dessa criatura pré-histórica. Além dos chifres, o triceratops também possuía uma grande crista óssea acima do pescoço.Com um corpo maciço e pernas robustas, o triceratops era um herbívoro poderoso, capaz de se defender de predadores com seus chifres afiados e sua estrutura corporal resistente. Sua mandíbula era equipada com uma fileira de dentes adaptados para triturar plantas duras, o que sugere uma dieta composta principalmente de folhagem fibrosa.O triceratops é um dos dinossauros mais reconhecíveis e populares, frequentemente retratado em filmes, programas de TV e livros. Sua presença no mundo pré-histórico acrescenta fascínio à história da vida na Terra e inspira a imaginação das pessoas sobre o passado distante do nosso planeta.",
+      "id": "2561"
+    }
+  ],
+  "teste": [
+    {
+      "id": "1",
+      "email": "nathalia@outlook.com",
+      "senha": "12345678"
+    },
+    {
+      "id": "884c",
+      "email": "henrique.marchini.souza@gmail.com",
+      "senha": "12e24tgrf"
+    },
+    {
+      "id": "2b9f",
+      "email": "nathaliamarchini8@gmail.com",
+      "senha": "bella"
+    },
+    {
+      "id": "2f72",
+      "email": "nathaliamarchini8@gmail.com",
+      "senha": "bella"
+    },
+    {
+      "id": "1cc2",
+      "email": "nathaliamarchini8@gmail.com",
+      "senha": "12e24tgrf"
+    }
+  ]
+}
